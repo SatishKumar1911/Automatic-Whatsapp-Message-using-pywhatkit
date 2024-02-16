@@ -13,6 +13,8 @@ To install pywhatkit: { pip install pywhatkit }
 <br>
 Make sure your whatsapp is linked to your browser, Whatsapp Web(https://web.whatsapp.com/)
 <br><br>
+Each message will be sent in the cycle of 60sec.
+<br>
 command to run ----> python main.py
 <br>
 ![image](https://github.com/SatishKumar1911/Automatic-Whatsapp-Message-using-pywhatkit/assets/124880943/cec0f979-a830-462a-bae1-0c5b228abc36)
@@ -26,4 +28,5 @@ Data:
 ![image](https://github.com/SatishKumar1911/Automatic-Whatsapp-Message-using-pywhatkit/assets/124880943/f2785f2a-2248-43ac-a658-c1b4b7d9bf59)
 <br>
 Messages Sent To:
+<br>
 ![image](https://github.com/SatishKumar1911/Automatic-Whatsapp-Message-using-pywhatkit/assets/124880943/89024f8a-a02b-4e29-bfbc-5c77af8e393b)
